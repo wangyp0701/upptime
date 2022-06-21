@@ -4,17 +4,17 @@
     "url": "https://wangyp.cf",
     "icon": "https://favicons.githubusercontent.com/wangyp.cf",
     "slug": "wangyp",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 624,
-    "timeDay": 446,
-    "timeWeek": 575,
-    "timeMonth": 545,
-    "timeYear": 628,
+    "time": 625,
+    "timeDay": 743,
+    "timeWeek": 633,
+    "timeMonth": 560,
+    "timeYear": 629,
     "dailyMinutesDown": {}
   }
 ]
